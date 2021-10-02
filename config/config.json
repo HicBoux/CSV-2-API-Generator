@@ -1,6 +1,5 @@
 {
     "cipher_key":"7uV$b9xc10_3mS|8",
     "activated_endpoints":["all_data","header","filter","summary_stats","value_counts", "sql", "search", "csv_file_deletion", "row_deletion", "column_deletion", "csv_file_deletion","row_append","value_replace"],
-    "file_deletion_password":"x3_f2@B",
     "pandas_chunksize":300 
 }
