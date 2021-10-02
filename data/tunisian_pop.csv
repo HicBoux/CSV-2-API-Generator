@@ -1,0 +1,351 @@
+code_municipalite,nom_municipalite_ar,code_gouvernorat,nom_gouvernorat_ar,population_annee,population_valeur
+1111,Tunis Ville,11,Tunis,2020,610995
+1112,Le Bardo,11,Tunis,2020,71176
+1113,EL kram,11,Tunis,2020,84521
+1114,La Goulette,11,Tunis,2020,57660
+1115,Carthage,11,Tunis,2020,18279
+1116,Sidi Bou Said,11,Tunis,2020,7744
+1117,La Marsa,11,Tunis,2020,99231
+1118,Sidi Hassine,11,Tunis,2020,124520
+1211,Ariana,12,Ariana,2020,120942
+1212,Soukra,12,Ariana,2020,150435
+1213,Raoued,12,Ariana,2020,136840
+1214,Kalaat El Andalos,12,Ariana,2020,27979
+1215,Sidi Thabet,12,Ariana,2020,26578
+1216,Ettadhamen,12,Ariana,2020,84801
+1217,El Mnihla,12,Ariana,2020,113650
+1311,Ben Arous,13,Ben Arous,2020,95818
+1312,El Mourouj,13,Ben Arous,2020,118316
+1313,Hammam Lif,13,Ben Arous,2020,43962
+1314,Hammam Chott,13,Ben Arous,2020,36468
+1315,Bou Mhel El Bassatine,13,Ben Arous,2020,48593
+1316,Ez-Zahra,13,Ben Arous,2020,36017
+1317,Rades,13,Ben Arous,2020,70388
+1318,Megrine,13,Ben Arous,2020,27699
+1319,Mhamedia,13,Ben Arous,2020,80378
+1320,Mornag,13,Ben Arous,2020,44528
+1321,Khelidia,13,Ben Arous,2020,20135
+1322,Fouchana,13,Ben Arous,2020,53905
+1323,Naassen,13,Ben Arous,2020,32483
+1411,Mannouba,14,Manouba,2020,35600
+1412,Denden,14,Manouba,2020,29796
+1413,Douar Hicher,14,Manouba,2020,91719
+1414,Oued Elli,14,Manouba,2020,77911
+1415,Mornaguia,14,Manouba,2020,33252
+1416,Borj El Amri,14,Manouba,2020,18757
+1417,Djeda?da,14,Manouba,2020,49679
+1418,Tebourba,14,Manouba,2020,46503
+1419,El Battan,14,Manouba,2020,20585
+1420,El Bassatine,14,Manouba,2020,15718
+1511,Nabeul,15,Nabeul,2020,82622
+1512,Dar Chaabane,15,Nabeul,2020,51554
+1513,Beni Khiar,15,Nabeul,2020,29548
+1514,El M?amoura,15,Nabeul,2020,9078
+1515,Soma?,15,Nabeul,2020,9477
+1516,Korba,15,Nabeul,2020,64470
+1517,Tazeka,15,Nabeul,2020,10159
+1518,Menzel Temime,15,Nabeul,2020,60481
+1519,Menzel Horr,15,Nabeul,2020,9523
+1520,El Mida,15,Nabeul,2020,29230
+1521,Kelibia,15,Nabeul,2020,54015
+1522,Azmour,15,Nabeul,2020,7944
+1523,Hammam El Guezaz,15,Nabeul,2020,10160
+1524,Dar Allouch,15,Nabeul,2020,6580
+1525,El Haouaria,15,Nabeul,2020,27078
+1526,Takelsa,15,Nabeul,2020,23714
+1527,Soliman,15,Nabeul,2020,43913
+1528,Korbous,15,Nabeul,2020,4109
+1529,Menzel Bou Zelfa,15,Nabeul,2020,40776
+1530,Beni Khalled,15,Nabeul,2020,28043
+1531,Zaouiet Djedidi,15,Nabeul,2020,12693
+1532,Grombalia,15,Nabeul,2020,49337
+1533,Bou Argoub,15,Nabeul,2020,33101
+1534,Hammamet,15,Nabeul,2020,89773
+1535,Fondek Ejedid - Es Selten,15,Nabeul,2020,26316
+1536,Tazegrane Boukrim Zaouiet Mgaiez,15,Nabeul,2020,15960
+1537,Sidi Jedidi,15,Nabeul,2020,15266
+1538,Echerifet Boucharray ,15,Nabeul,2020,14204
+1611,Zaghouan,16,Zaghouan,2020,41264
+1612,Ez-Zeriba,16,Zaghouan,2020,27129
+1613,Bir Mchergua,16,Zaghouan,2020,15741
+1614,Jebel  Oust,16,Zaghouan,2020,10544
+1615,El Fahs,16,Zaghouan,2020,36252
+1616,En-Nadhour,16,Zaghouan,2020,32088
+1617,Saouaf,16,Zaghouan,2020,13173
+1618,El Amaiem,16,Zaghouan,2020,12618
+1711,Bizerte,17,Bizerte,2020,182622
+1712,Sedjnane,17,Bizerte,2020,20659
+1713,Mateur,17,Bizerte,2020,46456
+1714,Menzel Bourguiba,17,Bizerte,2020,66146
+1715,Tinja,17,Bizerte,2020,25655
+1716,Ghar El Meleh,17,Bizerte,2020,9458
+1717,Ousja,17,Bizerte,2020,10474
+1718,Menzel Djemil,17,Bizerte,2020,30607
+1719,Menzel Abderrahmen,17,Bizerte,2020,20759
+1720,El Alia,17,Bizerte,2020,28444
+1721,Ras El Djebel,17,Bizerte,2020,31923
+1722,Metline,17,Bizerte,2020,15064
+1723,Rafraf,17,Bizerte,2020,15035
+1724,Utique,17,Bizerte,2020,20750
+1725,Joumine,17,Bizerte,2020,25971
+1726,Ghzala,17,Bizerte,2020,26522
+1727,El Hchachna,17,Bizerte,2020,18172
+2111,B?ja,21,Beja,2020,87211
+2112,El M?agoula,21,Beja,2020,15694
+2113,Zahret Medien,21,Beja,2020,20835
+2114,Nefza,21,Beja,2020,25144
+2115,Teboursouk,21,Beja,2020,21351
+2116,Testour,21,Beja,2020,27044
+2117,Goubellat,21,Beja,2020,15683
+2118,Medjez El Bab,21,Beja,2020,44100
+2119,Tibar,21,Beja,2020,11760
+2120,Ouechtata - El Jamila,21,Beja,2020,21090
+2121,Sidi Ismail,21,Beja,2020,10055
+2122,Slouguia,21,Beja,2020,7566
+2211,Jendouba,22,Jendouba,2020,102033
+2212,Bou Salem,22,Jendouba,2020,44545
+2213,Tabarka,22,Jendouba,2020,36605
+2214,Ain Draham,22,Jendouba,2020,22427
+2215,Fernana,22,Jendouba,2020,24694
+2216,Beni M'tir,22,Jendouba,2020,5399
+2217,Ghardimaou,22,Jendouba,2020,50293
+2218,Oued Meliz,22,Jendouba,2020,17511
+2219,Balta -Bouaouene,22,Jendouba,2020,29547
+2220,Souk Es-Sabet,22,Jendouba,2020,13703
+2221,El Golaa - El Maaden -Forgassen,22,Jendouba,2020,13245
+2222,Jaouaouada,22,Jendouba,2020,16275
+2223,Ain Es-Sobh - Nadhour,22,Jendouba,2020,16232
+2224,Khemairia,22,Jendouba,2020,11754
+2311,Le Kef,23,Kef,2020,65905
+2312,Nebeur,23,Kef,2020,13535
+2313,Touiref,23,Kef,2020,6096
+2314,Sakiet Sidi Youssef,23,Kef,2020,16884
+2315,Tajerouine,23,Kef,2020,25454
+2316,Menzel Salem,23,Kef,2020,1802
+2317,Kal?at Snan,23,Kef,2020,15908
+2318,Kal?at Khasba,23,Kef,2020,6569
+2319,Djerissa,23,Kef,2020,9489
+2320,El Ksour,23,Kef,2020,14955
+2321,Dahmani,23,Kef,2020,27677
+2322,Es-Sers,23,Kef,2020,17586
+2323,Z?afrane - Dyr El Kef,23,Kef,2020,13430
+2324,Bahra,23,Kef,2020,6164
+2325,El Marja,23,Kef,2020,5410
+2411,Siliana,24,Siliana,2020,49410
+2412,Bou Arada,24,Siliana,2020,21032
+2413,Ga?four,24,Siliana,2020,16987
+2414,El Krib,24,Siliana,2020,20099
+2415,Bourouis,24,Siliana,2020,11672
+2416,Makthar,24,Siliana,2020,29107
+2417,Er-Rouhia,24,Siliana,2020,17759
+2418,Kesra,24,Siliana,2020,16378
+2419,Bargou,24,Siliana,2020,12300
+2420,El Aroussa,24,Siliana,2020,10353
+2421,Sidi Morched,24,Siliana,2020,15427
+2422,El Hababsa,24,Siliana,2020,7306
+3111,Sousse,31,Sousse,2020,247496
+3112,Ksibet Thrayet,31,Sousse,2020,14403
+3113,Ezzouhour,31,Sousse,2020,20046
+3114,Zaouiet Sousse,31,Sousse,2020,26729
+3115,Hammam Sousse,31,Sousse,2020,46770
+3116,Akouda,31,Sousse,2020,31056
+3117,Kal?a K?bira,31,Sousse,2020,62496
+3118,Sidi Bou Ali,31,Sousse,2020,20470
+3119,Hergla,31,Sousse,2020,9924
+3120,Enfidha,31,Sousse,2020,31672
+3121,Bouficha,31,Sousse,2020,27953
+3122,Sidi El Heni,31,Sousse,2020,14280
+3123,M'Saken,31,Sousse,2020,88827
+3124,Kal?a Seghira,31,Sousse,2020,43268
+3125,Mess?dine,31,Sousse,2020,13625
+3126,Kandar,31,Sousse,2020,14544
+3127,Gerimet Hicher,31,Sousse,2020,19812
+3128,Chott Meriam,31,Sousse,2020,8328
+3211,Monastir,32,Monastir,2020,105429
+3212,Khenis,32,Monastir,2020,12688
+3213,Ouerdanine,32,Monastir,2020,23327
+3214,Sahline M?otmar,32,Monastir,2020,21191
+3215,Sidi Ameur,32,Monastir,2020,9430
+3216,Zermadine,32,Monastir,2020,18387
+3217,Beni Hassen,32,Monastir,2020,9188
+3218,Ghnada,32,Monastir,2020,5291
+3219,Jamel,32,Monastir,2020,54403
+3220,Menzel Kamel,32,Monastir,2020,9124
+3221,Zouiet Kontoch,32,Monastir,2020,7264
+3222,Bembla et Manara,32,Monastir,2020,17528
+3223,Menzel En-Nour,32,Monastir,2020,12834
+3224,EL Masdour,32,Monastir,2020,5129
+3225,Moknine,32,Monastir,2020,61799
+3226,Sidi Bennour,32,Monastir,2020,4891
+3227,Menzel Farsi,32,Monastir,2020,3899
+3228,Amiret El Fhoul,32,Monastir,2020,5686
+3229,Amiret Touazra,32,Monastir,2020,6775
+3230,Amirat Hojjaj,32,Monastir,2020,8788
+3231,Cherahil,32,Monastir,2020,4768
+3232,Bekalta,32,Monastir,2020,20181
+3233,Teboulba,32,Monastir,2020,41066
+3234,Ksar Helal,32,Monastir,2020,54533
+3235,Ksibt El Mediouni,32,Monastir,2020,14259
+3236,Benen Bodher,32,Monastir,2020,15540
+3237,Touza,32,Monastir,2020,7887
+3238,Sayada,32,Monastir,2020,13491
+3239,Lamta,32,Monastir,2020,6026
+3240,Bou-Hajar,32,Monastir,2020,6388
+3241,Menzel Hayet,32,Monastir,2020,14192
+3311,Mahdia ,33,Mahdia,2020,60159
+3312,R?jiche,33,Mahdia,2020,11185
+3313,Bou Merdes,33,Mahdia,2020,18481
+3314,Ouled Chamekh,33,Mahdia,2020,23814
+3315,Chorbane,33,Mahdia,2020,25230
+3316,Hebira,33,Mahdia,2020,10678
+3317,Essouassi,33,Mahdia,2020,31665
+3318,El Djem,33,Mahdia,2020,36590
+3319,Kerker,33,Mahdia,2020,18964
+3320,Chebba,33,Mahdia,2020,30958
+3321,Melloulech,33,Mahdia,2020,24263
+3322,Sidi Alouane,33,Mahdia,2020,27350
+3323,Ksour Essef,33,Mahdia,2020,36936
+3324,El Brad?a,33,Mahdia,2020,17009
+3325,Sidi Zid-Ouled Moulahem,33,Mahdia,2020,22784
+3326,El Hekaima,33,Mahdia,2020,14944
+3327,Talalsa,33,Mahdia,2020,18209
+3328,Zalba,33,Mahdia,2020,12770
+3411,Sfax,34,Sfax,2020,286245
+3412,Sakiet Ezzit,34,Sfax,2020,66833
+3413,Chihia,34,Sfax,2020,30250
+3414,Sakiet Eddaier,34,Sfax,2020,48091
+3415,Gremda,34,Sfax,2020,44402
+3416,El ain,34,Sfax,2020,47087
+3417,Tina,34,Sfax,2020,51891
+3418,Agareb,34,Sfax,2020,43841
+3419,Djebeniana,34,Sfax,2020,32751
+3420,El Hencha,34,Sfax,2020,34539
+3421,Menzel Chaker,34,Sfax,2020,20496
+3422,El Gheraiba,34,Sfax,2020,16460
+3423,Bir Ali Ben Khelifa,34,Sfax,2020,32708
+3424,Skhira,34,Sfax,2020,37792
+3425,Mahr?s,34,Sfax,2020,36265
+3426,Kerkennah,34,Sfax,2020,16295
+3427,El Amra,34,Sfax,2020,31729
+3428,El Aouabed-Khazanet,34,Sfax,2020,37971
+3429,En-Nadhour-Sidi Ali Belabed,34,Sfax,2020,21435
+3430,El Hajeb,34,Sfax,2020,23185
+3431,Hzag-Ellouza,34,Sfax,2020,20135
+3432,El Achech Boujarbouea El Aouadna Majel Edraj,34,Sfax,2020,18652
+3433,En-Nacer,34,Sfax,2020,18182
+4111,Kairouan,41,Kairouan,2020,181197
+4112,Echbika,41,Kairouan,2020,20989
+4113,Sbikha,41,Kairouan,2020,42160
+4114,El Oueslatia,41,Kairouan,2020,27587
+4115,A?n Djeloula,41,Kairouan,2020,6695
+4116,Haffouz,41,Kairouan,2020,26474
+4117,El Al?a,41,Kairouan,2020,28257
+4118,Hajeb El Ayoun,41,Kairouan,2020,25323
+4119,Nasrallah,41,Kairouan,2020,19973
+4120,Menzel Mehiri,41,Kairouan,2020,12953
+4121,Echrarda,41,Kairouan,2020,14325
+4122,Bouhajla,41,Kairouan,2020,68539
+4123,Sisseb-Ed-Dheriaat,41,Kairouan,2020,33257
+4124,Jehina,41,Kairouan,2020,9535
+4125,Rakada,41,Kairouan,2020,26574
+4126,Abida,41,Kairouan,2020,15562
+4127,Cheraitia El Ksour,41,Kairouan,2020,10894
+4128,El A?n El Beidha,41,Kairouan,2020,12652
+4129,Chaouachi,41,Kairouan,2020,11730
+4211,Kasserine,42,Kasserine,2020,33575
+4212,Sbeitla,42,Kasserine,2020,38372
+4213,Sbiba,42,Kasserine,2020,27611
+4214,Djedeliane,42,Kasserine,2020,11991
+4215,Thala,42,Kasserine,2020,39159
+4216,Hidra,42,Kasserine,2020,10690
+4217,Foussana,42,Kasserine,2020,29712
+4218,Feriana,42,Kasserine,2020,36812
+4219,Telept,42,Kasserine,2020,18325
+4220,Majel Bel Abbes,42,Kasserine,2020,24243
+4221,El Ayoun,42,Kasserine,2020,19632
+4222,Hassi El Farid,42,Kasserine,2020,20920
+4223,Ez-Zouhour,42,Kasserine,2020,22803
+4224,En-Nour,42,Kasserine,2020,43206
+4225,Ech-Charayaa- Machrek Ech-Chams,42,Kasserine,2020,25202
+4226,Er-Rakhmet,42,Kasserine,2020,15773
+4227,Ain El Khemaissia,42,Kasserine,2020,13235
+4228,Khmouda,42,Kasserine,2020,13410
+4229,Bouzguam,42,Kasserine,2020,14879
+4311,Sidi Bouzid,43,Sidi Bouzid,2020,86063
+4312,Jilma,43,Sidi Bouzid,2020,26087
+4313,Cebalet,43,Sidi Bouzid,2020,21524
+4314,Bir El Hafey,43,Sidi Bouzid,2020,32172
+4315,Sidi Ali Ben Aoun,43,Sidi Bouzid,2020,19919
+4316,Menzel Bouzaine,43,Sidi Bouzid,2020,26682
+4317,Meknassy,43,Sidi Bouzid,2020,24674
+4318,Mezzouna,43,Sidi Bouzid,2020,26096
+4319,Regueb,43,Sidi Bouzid,2020,44906
+4320,Ouled Haffouz,43,Sidi Bouzid,2020,19687
+4321,Essaaida,43,Sidi Bouzid,2020,24400
+4322,Souk Jedid,43,Sidi Bouzid,2020,23211
+4323,EL Assouada,43,Sidi Bouzid,2020,20009
+4324,Faiedh Bennour,43,Sidi Bouzid,2020,22859
+4325,Batten  El Gh?zel,43,Sidi Bouzid,2020,16357
+4326,Rahal,43,Sidi Bouzid,2020,9041
+4327,El Mansoura,43,Sidi Bouzid,2020,10367
+5111,Gabes,51,Gabes,2020,106438
+5112,Chenini Nahal,51,Gabes,2020,21393
+5113,Ghanouch,51,Gabes,2020,31871
+5114,El Metouia,51,Gabes,2020,13289
+5115,Ouedhref,51,Gabes,2020,16332
+5116,El Hamma,51,Gabes,2020,60204
+5117,Matmata ,51,Gabes,2020,4038
+5118,Nouvelle Matmata,51,Gabes,2020,14129
+5119,Mareth,51,Gabes,2020,31308
+5120,Ezzarat,51,Gabes,2020,9395
+5121,Menzel El Habib,51,Gabes,2020,9766
+5122,Bou-chemma,51,Gabes,2020,13306
+5123,Teboulbou,51,Gabes,2020,24336
+5124,Habib ThameurBou Attouch,51,Gabes,2020,21463
+5125,Kattana,51,Gabes,2020,13703
+5126,Dkhilet Toujane,51,Gabes,2020,10925
+5211, Mednine,52,Mednine,2020,111916
+5212,Beni Khedache,52,Mednine,2020,25202
+5213,Ben Guerdane,52,Mednine,2020,86280
+5214,Zarzis,52,Mednine,2020,46640
+5215,Djerba Houmet Souk,52,Mednine,2020,83470
+5216,Djerba Midoun,52,Mednine,2020,72291
+5217,Djerba Ajim,52,Mednine,2020,24865
+5218,Sidi Makhlouf,52,Mednine,2020,26477
+5219,Zarzis Nord,52,Mednine,2020,31104
+5220,Bou-Ghrara,52,Mednine,2020,7321
+5311,Tataouine,53,Tataouine,2020,91300
+5312,Bir Lahmar,53,Tataouine,2020,7964
+5313,Ghomrassen,53,Tataouine,2020,14727
+5314,Dhehiba,53,Tataouine,2020,4381
+5315,Remada,53,Tataouine,2020,10225
+5316,Smar,53,Tataouine,2020,15119
+5317,Tataouine Sud,53,Tataouine,2020,7518
+6111,Gafsa,61,Gafsa,2020,119438
+6112,El Ksar,61,Gafsa,2020,27653
+6113,Oum El Araies,61,Gafsa,2020,21562
+6114,Redeyef,61,Gafsa,2020,26942
+6115,Metlaoui,61,Gafsa,2020,39154
+6116,Mdhila,61,Gafsa,2020,15855
+6117,Guetar,61,Gafsa,2020,20695
+6118,Sned,61,Gafsa,2020,22589
+6119,Belkhir,61,Gafsa,2020,14941
+6120,Sidi A?ch,61,Gafsa,2020,11550
+6121,Lala,61,Gafsa,2020,11744
+6122,Sidi Boubaker,61,Gafsa,2020,4229
+6123,Zanouch,61,Gafsa,2020,16129
+6211,Tozeur,62,Tozeur,2020,50744
+6212,De guech,62,Tozeur,2020,22808
+6213,Hamet Jerid,62,Tozeur,2020,7104
+6214,Nefta,62,Tozeur,2020,22575
+6215,Tameghza,62,Tozeur,2020,6631
+6216,Hazoua,62,Tozeur,2020,5100
+6311,Kebili,63,Kebilli,2020,46311
+6312,Jemna,63,Kebilli,2020,7720
+6313,Douz,63,Kebilli,2020,42303
+6314,El Gol?a,63,Kebilli,2020,8587
+6315,Souk El Ahad,63,Kebilli,2020,19847
+6316,Faouar,63,Kebilli,2020,16873
+6317,Rejim Maatoug,63,Kebilli,2020,5258
+6318,Bechelli-Jersine-El Blidete,63,Kebilli,2020,12640
+6319,B?chri-Fatnassa ,63,Kebilli,2020,9406
