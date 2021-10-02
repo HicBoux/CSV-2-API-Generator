@@ -59,6 +59,7 @@ Generated Endpoints <b>that can be enabled or disabled</b> :
 
 2) Open a terminal and change your current directory to the repository's root one and execute :</br>
 -Simply with the makefile: ```make```</br>
+-With a docker command : ```docker build -t csv2api .``` and ```docker run -it -p 5000:5000 csv2api```</br>
 
 3) If it's the first time, wait a few minutes so that the app gets installed. Otherwise, it should start in a few seconds.
 
