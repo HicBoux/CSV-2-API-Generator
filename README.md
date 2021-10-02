@@ -54,8 +54,6 @@ Generated Endpoints <b>that can be enabled or disabled</b> :
 <li>activated_endpoints : choose which endpoints have to be enabled. By default all posibles ones are enabled.</li>
 <li>pandas_chunksize : the pandas chunksize used when reading CSV files. It avoids memory bugs due to a too large file loaded in "one shot".</li>
 </ul>
--You can change the "waiting_time_multiplicator" value which modifies the time to wait a page is loaded.</br>
-
 
 2) Open a terminal and change your current directory to the repository's root one and execute :</br>
 -Simply with the makefile: ```make```</br>
