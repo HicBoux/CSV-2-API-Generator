@@ -67,7 +67,7 @@ Generated Endpoints <b>that can be enabled or disabled</b> :
 
 <h2>API Documentation</h2>
 
-An automated and interactive documentation is generated at the root URL. By default, it should be accessible on http://localhost:5000/.
+An automated and interactive documentation is generated at the root URL. By default, it should be accessible on http://localhost:5000/. You can even try the API with your web browser thanks to this online documentation.
 
 <h2>Credits :</h2>
 
