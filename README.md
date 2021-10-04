@@ -1,4 +1,4 @@
-<h1>CSV-2-API-Generator</h1>
+<h1>CSV 2 API Generator</h1>
 
 Simply and automatically generate APIs from your CSVs. Built in Python with Flask Restx.
 
