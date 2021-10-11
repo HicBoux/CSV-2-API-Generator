@@ -23,7 +23,7 @@ Generated Endpoints <b>that can be enabled or disabled</b> :
     </ul>
     <li>REST PUT</li>
     <ul>
-      <li>ROW_APPEND : Append new row(s) to an existing CSV file stored.</li>
+      <li>ROW_APPEND : Append a new row to an existing CSV file stored.</li>
       <li>VALUE_REPLACE : Replace some values filtered in a CSV file by other ones.</li>
     </ul>
     <li>REST DELETE</li>
@@ -51,7 +51,7 @@ Generated Endpoints <b>that can be enabled or disabled</b> :
   <li>The method is shown in the main of the code.</li>
   </ul>
 </li>
-<li>activated_endpoints : choose which endpoints have to be enabled. By default all posibles ones are enabled.</li>
+<li>activated_endpoints : choose which endpoints have to be enabled. By default all possible ones are enabled.</li>
 <li>pandas_chunksize : the pandas chunksize used when reading CSV files. It avoids memory bugs due to a too large file loaded in "one shot".</li>
 </ul>
 
